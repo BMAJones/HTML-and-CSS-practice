@@ -1,0 +1,131 @@
+body {
+    background-color: hsl(30, 54%, 90%);
+    font-optical-sizing: auto;
+    font-style: normal;
+    padding: 50px 150px;
+    font-size: 16px;
+    max-width: 1440px;
+    color: hsl(30, 10%, 34%);
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+    color: hsl(24, 5%, 18%);
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container {
+    background-color: white;
+    border-radius: 20px;
+    padding: 35px;
+}
+
+.attribution {
+    display: none;
+}
+
+.ingredients {
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+.ingredientslist {
+    padding-left: 20px;
+}
+
+img {
+    background-size: cover;
+    border-radius: 10px;
+    position: relative;
+    width: 100%;
+}
+
+.nutdata {
+    color: hsl(332, 51%, 32%);
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.tablerow {
+    border-width: 100px;
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+}
+
+td {
+    padding: 10px 20px;
+    width: 300px;
+}
+
+h2 {
+    color: hsl(14, 45%, 36%);
+    padding-top: 10px;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.preptime {
+    background-color: hsl(330, 100%, 98%);
+    padding: 5px 0px 5px 10px;
+    border-radius: 10px;
+}
+
+h3 {
+    padding: 0px 15px;
+    color: hsl(332, 51%, 32%);
+}
+
+.prepheader {
+    font-weight: 600;
+    padding-left: 15px;
+    color: hsl(30, 10%, 34%);
+}
+
+.prepitem {
+    padding-bottom: 10px;
+}
+
+p {
+    padding-bottom: 10px;
+    width: 100%;
+    font-size: 16px;
+}
+
+hr {
+    color: hsl(30, 18%, 87%);
+    background-color: hsl(30, 18%, 87%);
+    height: 1px;
+    border: none;
+}
+
+#nutblurb {
+    padding-bottom: 5px;
+}
+
+ol {
+    padding: 0px 25px;
+    line-height: 20px;
+    width: 95%;
+}
+
+ol li::marker {
+    color: hsl(332, 51%, 32%);
+    font-weight: 600;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+li {
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
